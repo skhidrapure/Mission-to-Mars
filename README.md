@@ -19,6 +19,17 @@ Our website is built using HTML, CSS & Bootstrap, we use Flask & Python to aid u
 
 
 Our website exposes to 2 urls.
-1. index.html - This our only displayable webpage, it helps us. 
+1. index.html - This our only displayable webpage, it 
+2. /scrape - This is to invokes our python code to dynamically scrape the data, store it in MongoDB and refresh the website. 
 
 
+# Snapshots
+
+1. Main website header
+![](static/Heading.png)
+2. Website body to display news, facts and image. 
+![](static/news_and_facts.png)
+3. Hemisphere information
+![](static/hemispheres.png)
+4. Mobile view
+![](static/news_and_facts.png)
