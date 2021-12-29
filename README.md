@@ -27,11 +27,15 @@ Our website exposes to 2 urls.
 
 1. Main website header
 ![](static/Heading.png)
+
 2. Website body to display news, facts and image. 
 ![](static/news_and_facts.png)
+
 3. Hemisphere information
 ![](static/hemispheres.png)
+
 4. Mobile view
+
 ![](static/Mobile1.png)
 ![](static/Mobile2.png)
 ![](static/Mobile3.png)
