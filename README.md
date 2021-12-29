@@ -32,4 +32,6 @@ Our website exposes to 2 urls.
 3. Hemisphere information
 ![](static/hemispheres.png)
 4. Mobile view
-![](static/news_and_facts.png)
+![](static/Mobile1.png)
+![](static/Mobile2.png)
+![](static/Mobile3.png)
